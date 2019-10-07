@@ -1,0 +1,12 @@
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmLogin.resources
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\Data\DBQuanLyBanHang.mdf
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\Data\DBQuanLyBanHang_log.ldf
