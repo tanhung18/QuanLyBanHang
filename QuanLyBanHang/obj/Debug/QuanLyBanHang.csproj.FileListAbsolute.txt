@@ -12,3 +12,4 @@ C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\Data\DBQuanL
 C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\bin\Debug\Data\DBQuanLyBanHang_log.ldf
 C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmMain.resources
 C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmCauHinh.resources
+C:\Users\STUDENT\Source\Repos\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Functions.FrmDanhMucKhachHang.resources

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using QuanLyBanHang.Functions;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -43,6 +44,13 @@ namespace QuanLyBanHang
             frmCauHinh.MdiParent = this;
             frmCauHinh.Show();
 
+        }
+
+        private void kháchHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmDanhMucKhachHang frmDanhMucKhachHang = new FrmDanhMucKhachHang();
+            frmDanhMucKhachHang.MdiParent = this;
+            frmDanhMucKhachHang.Show();
         }
     }
 }
